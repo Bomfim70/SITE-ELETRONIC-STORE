@@ -69,5 +69,24 @@ body {
     margin-right: 50px;
 }
 
+.sensor-LDR {
+    width: 40%;
+    padding: 45px;
+    margin-left: 50px;
+}
 
+.LED {
+    width: 40%;
+    margin-right: 50px;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+p {
+    justify-content: center;
+    padding: 20px;
+}
 
