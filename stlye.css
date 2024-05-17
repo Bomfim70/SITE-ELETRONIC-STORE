@@ -91,12 +91,13 @@ body {
     display: inline;
     padding: 20px;
     margin-left: 140px;
-    
 }
 
 footer {
     background-color: #000000;
     color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
 }
 
 p {
