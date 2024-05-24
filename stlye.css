@@ -65,11 +65,13 @@ body {
     width: 15%;
     display: inline;
     padding: 120px;
+    margin-left: 120px;
 }
 
 .multimetro {
     width: 15%;
     margin-right: 50px;
+    margin-left: 120px;
 }
 
 .capacitor {
