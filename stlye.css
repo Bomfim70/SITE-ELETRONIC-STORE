@@ -5,14 +5,15 @@ header {
 
 .cabecalho {
      color: white;
-     margin-left: 660px;
+     margin-left: 520px;
+     margin-right: 550px;
     text-align: center;
     display: flex;
 }
 
 .cabecalho-lista-1 {
      color: white;
-    margin-left: 260px; /* alinhamento á esquerda*/
+    margin-left: 199px; /* alinhamento á esquerda*/
     padding: 40px;  /* espaçamento vertical */
     display: inline-block;
     justify-content: center;
@@ -108,7 +109,7 @@ p {
 .preco-1 {
     width: 25%;
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 15px;
     margin-right: 50px;
     text-align: center;
 }
@@ -116,7 +117,7 @@ p {
 .preco-2 {
     width: 25%;
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 15px;
     margin-right: 50px;
     text-align: center;
 }
